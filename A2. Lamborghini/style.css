@@ -29,10 +29,11 @@ body{
 
 /* Video */
 .Lamborghini{
+    padding-left: 30px;
+    padding-right: 20px;
+    padding-top: 20px !important;
     display: flex;
     justify-content: flex-start;
-    padding-left: 2px;
-    padding-top: 20px !important;
     
 }
 
