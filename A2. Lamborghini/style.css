@@ -1,0 +1,83 @@
+/* Background Web*/
+body{
+    background: linear-gradient(to right, rgb(0, 0, 0), rgb(0, 31, 63)) !important;
+    overflow-x: hidden !important;
+}
+
+/* Navbar */
+.navbar-brand{
+    color: rgb(255, 255, 255) !important;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8), 
+    0 0 20px rgba(255, 255, 255, 0.6);
+}
+
+.nav-item{
+    padding-left: 20px;
+}
+
+.nav-item1{
+    padding-left: 150px;
+    padding-top: 9px;
+}
+
+.text{
+    color:rgb(125, 249, 255)!important;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8), 
+    0 0 20px rgba(255, 255, 255, 0.6);
+
+}
+
+/* Video */
+.Lamborghini{
+    padding-left: 2px;
+    padding-top: 20px !important;
+    
+}
+
+/* text Lamborghini Aventador */
+.text1{
+    padding-top: 200px !important;
+    text-align: center;
+    color: aliceblue;
+    text-shadow: 0 0 10px rgba(192, 192, 192, 0.8);
+}
+
+/* Carausell */
+.carousel-inner{
+    padding-top: 20px !important;
+}
+
+.text2 {
+    color: white !important;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8) !important;
+    padding-left: 470px;
+    padding-bottom: 100px;
+}
+
+.text3 {
+    color: white !important;
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8) !important;
+    padding-left: 470px;
+}
+
+/* Images & description */
+
+.card{
+    background-color: rgb(173, 228, 230) !important; 
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+    
+}
+
+.card-title{
+    text-align: center;
+}
+
+.card-text{
+    text-align: justify;
+}
+
+.card-text1{
+    text-align: center;
+    font-size: 40px;
+}
