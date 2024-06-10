@@ -81,6 +81,12 @@ body{
     text-align: justify;
 }
 
+/* Gambar & Harga */
+
+.card-img {
+    background: linear-gradient(to right, rgb(0, 0, 0), rgb(0, 31, 63)) !important;
+
+}
 .card-text1{
     text-align: center;
     font-size: 40px;
